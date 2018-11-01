@@ -1,0 +1,22 @@
+{
+  "name": "@alan-liang/utils",
+  "version": "0.1.0",
+  "description": "Utils by Alan-Liang",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Liang/utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Alan-Liang",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Alan-Liang/utils/issues"
+  },
+  "homepage": "https://github.com/Alan-Liang/utils#readme",
+  "dependencies": {
+    "npmlog": "^4.1.2"
+  }
+}
