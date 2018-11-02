@@ -3,7 +3,9 @@
 //@code-style Really Bad
 
 var template=require("./template");
-var log=require("./log");
+try{
+  var log=require("./log");
+}catch(e){}
 var vurl=require("./vurl");
 var db;
 try{

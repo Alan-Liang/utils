@@ -1,6 +1,6 @@
 {
   "name": "@alan-liang/utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utils by Alan-Liang",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/Alan-Liang/utils#readme",
   "dependencies": {
-    "npmlog": "^4.1.2"
   }
 }
